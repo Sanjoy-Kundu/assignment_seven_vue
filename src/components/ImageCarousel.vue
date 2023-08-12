@@ -14,6 +14,7 @@ onMounted(()=>{
 
 onBeforeUnmount(() => {
 	alert('The carousel component is about to be destroyed.');
+  console.log('The carousel component is about to be destroyed.');
 	if(carousel){
 		carousel.destroy();
 	}

@@ -10,17 +10,11 @@ import ChatPart from './components/ChatPart.vue';
           </div>
     </div>
     <div class="flex items-center justify-center h-screen mt-10">
-          <div class="cart">
-              <ChatPart/>
-          </div>
+      <ChatPart/>
     </div>
-
 </div>
 </template>
 <style>
-.cart{
-  width: 400px;
-  height: 400px;
-  background-color: rgb(202, 142, 195);
-}
+
+
 </style>
