@@ -70,7 +70,7 @@ onBeforeUnmount (()=>{
 .chart{
   width: 400px;
   height: 400px;
-  background-color: rgb(202, 142, 195);
+  background-color: rgb(147, 186, 255);
 margin-top: 20px;
 border-radius: 10px;
 box-shadow: 2px 4px 3px black;
